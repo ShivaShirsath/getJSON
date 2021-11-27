@@ -1,0 +1,6 @@
+bin/
+/bin
+bin
+gen/
+obj/
+libs/*/*.so
